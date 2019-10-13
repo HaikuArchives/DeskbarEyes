@@ -13,6 +13,7 @@
 
 #include <stdio.h>
 #include <math.h>
+#include <string.h>
 
 #include "Bitmaps.h"
 #include "Eyes.h"
